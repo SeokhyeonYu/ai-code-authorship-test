@@ -10,7 +10,7 @@ AI write5
 AI write6
 AI write7
 AI write8
-AI write9
+human write 9
 human write 10
 human write 11
 human write 12
