@@ -24,3 +24,9 @@ human write18
 human write19
 human write20
 AI write18
+human write21
+human write22
+human write23
+AI write19
+AI write20
+AI write21
