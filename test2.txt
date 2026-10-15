@@ -20,3 +20,7 @@ AI write14
 AI write15
 AI write16
 AI write17
+human write18
+human write19
+human write20
+AI write18
